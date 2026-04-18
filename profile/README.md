@@ -26,7 +26,7 @@ Foundry is where Hatchup incubates its own startups. Each product below is a com
 - **[Phronexia](https://github.com/hatchup-io/phronexia)** — enterprise decision-making engine that combines LLMs with Multi-Criteria Decision Making (MCDM) to turn unstructured inputs into quantifiable, explainable rankings. ([frontend](https://github.com/hatchup-io/phronexia-frontend))
 - **[Pathwise](https://github.com/hatchup-io/pathwise_backend)** — AI-powered immigration consultant that guides applicants through complex legal and procedural pathways. ([design bundle](https://github.com/hatchup-io/pathwise))
 - **[Ordnix](https://github.com/hatchup-io/ordnix-backend)** — workflow and order management product. ([frontend](https://github.com/hatchup-io/ordnix-frontend))
-- **[RAGBot](https://github.com/hatchup-io/ragbot)** — multi-tenant RAG chatbot platform that lets businesses train a personalized assistant on their own documents and embed it into their landing pages.
+- **[Adapt-lab](https://github.com/hatchup-io/ragbot)** — multi-tenant RAG chatbot platform that lets businesses train a personalized assistant on their own documents and embed it into their landing pages.
 
 ---
 
