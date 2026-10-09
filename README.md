@@ -1,6 +1,6 @@
 # hatchup-io/.github
 
-This repository holds organization-wide defaults for the [Hatchup](https://github.com/hatchup-io) GitHub organization — issue templates, pull-request templates, workflows, and the public organization profile.
+This repository holds the public profile of the [Hatchup](https://github.com/hatchup-io) GitHub organization. It contains no organization-wide issue templates, pull-request templates or workflows.
 
 The organization profile rendered on [github.com/hatchup-io](https://github.com/hatchup-io) lives in
 [`profile/README.md`](./profile/README.md), and its banner in [`profile/assets/banner.svg`](./profile/assets/banner.svg).
