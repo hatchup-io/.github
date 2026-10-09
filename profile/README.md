@@ -35,7 +35,7 @@ Four business lines. Each is built to stand alone — and engineered to compound
 | 💠 | **[VC](https://hatchup.capital/capital)** | Strategic capital and board-level governance for growth-stage ventures, backed by our own operating infrastructure. |
 | 🧪 | **[Venture Studio](https://hatchup.capital/foundry)** | Where we found, fund, and build our own startups — from opportunity mapping to go-to-market. |
 | 🚀 | **[Launchpad](https://hatchup.capital/launchpad)** | Legal, financial, and operational structure that lets startups and businesses go global without going solo. |
-| 🔧 | **[Adapt Lab](https://hatchup.capital/adapt-lab)** | Structural modernization for established businesses — operational redesign, digitization, and market expansion. |
+| 🔧 | **[Adapt Lab](https://hatchup.capital/adaptiq)** | Structural modernization for established businesses — operational redesign, digitization, and market expansion. |
 
 <br>
 
@@ -69,7 +69,7 @@ Four business lines. Each is built to stand alone — and engineered to compound
 | Product | What it is | Live |
 | :-- | :-- | :-- |
 | **yFace** | Face-proportion analysis and aesthetic-surgery recommendation powered by Face Mesh and LLMs, with dedicated patient and practitioner panels. | [app.yface.clinic](https://app.yface.clinic) |
-| **Bayat Group** | Immigration and second-citizenship counsel platform — case intake, eligibility, and client workflow. | [bayatgroup.pathinnova.com](https://bayatgroup.pathinnova.com) |
+| **Bayat Group** | Immigration and second-citizenship counsel platform — case intake, eligibility, and client workflow. | [bayatgroup.com](https://bayatgroup.com) |
 | **MatchPointIQ** | B2B matchmaking and deal management — sources suppliers via directory scraping and vector search, then handles contracts and compliance end to end. | *private* |
 | **Adapt Lab Assistant** | Multi-tenant RAG platform that lets a business train an assistant on its own documents and embed it anywhere. | *private* |
 
