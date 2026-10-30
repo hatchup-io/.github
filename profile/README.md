@@ -15,12 +15,9 @@
 
 ---
 
-**HatchUp Investment LLC** is a multi-layered ecosystem built to discover, build, fund, and internationalize
-high-potential ventures. We don't only write checks — we design the operating systems, ship the software, and
-run the infrastructure alongside our founders and clients.
+**HatchUp Investment LLC** is a multi-layered ecosystem built to discover, build, fund, and internationalize high-potential ventures. We don't only write checks — we design the operating systems, ship the software, and run the infrastructure alongside our founders and clients.
 
-This organization holds the engineering behind that ecosystem. **Our repositories are private**, so what you'll
-find below are the products themselves and the people who build them.
+This organization holds the engineering behind that ecosystem. **Our repositories are private**, so what you'll find below are the products themselves and the people who build them.
 
 > **Structure before scale.** Sustainable growth starts with disciplined operational design — not louder ambition.
 
@@ -41,22 +38,23 @@ Four business lines. Each is built to stand alone — and engineered to compound
 
 ## What we build
 
-### Venture Studio — our own ventures
-
-| Product | What it is | Live |
-| :-- | :-- | :-- |
-| **Katavex** | AI-assisted OKR and performance management that keeps organizational goals alive across teams instead of turning them into static documents. | [katavex.com](https://katavex.com) |
-| **Pathinnova** | AI-powered immigration pathway analysis that guides applicants through complex legal and procedural routes. | [pathinnova.com](https://pathinnova.com) · [app](https://app.pathinnova.com) |
-| **Phronexia** | Enterprise decision engine that pairs LLMs with Multi-Criteria Decision Making to turn unstructured inputs into quantifiable, explainable rankings. | *private beta* |
-| **Ordnix** | Order and workflow management for operations teams. | *in development* |
-
 ### VC — the platform behind the capital
 
 | Product | What it is | Live |
 | :-- | :-- | :-- |
-| **Venture Discovery** | Founder and venture intake, screening, and pipeline for the studio and the fund. | [venture.hatchup.capital](https://venture.hatchup.capital) |
-| **Venture Platform** | Portfolio, deal, and governance workspace used across our investments. | [app.vc.hatchup.capital](https://app.vc.hatchup.capital) |
-| **Valuation Simulator** | Monte Carlo startup valuation model — scenario ranges instead of a single optimistic number. | [valuation.hatchup.capital](https://valuation.hatchup.capital) |
+| **Capital Platform** | Founder eligibility scoring with AHP, investor matching, an OTP-gated investor deck, NDAs, and a deal room shared by founders, investors, and our team. | [vc.hatchup.capital](https://vc.hatchup.capital) · [app](https://app.vc.hatchup.capital) |
+| **Valuation Simulator** | Monte Carlo startup valuation — DCF, revenue-multiple, and VC methods blended into scenario ranges instead of a single optimistic number. | [valuation.hatchup.capital](https://valuation.hatchup.capital) |
+
+### Venture Studio — how founders get in, and what we build ourselves
+
+| Product | What it is | Live |
+| :-- | :-- | :-- |
+| **AdaptIQ** | The studio's intake: founders describe an idea to Scout, an AI interview agent; the result is scored against the studio's guardrails, reviewed, and the strongest move through a meeting into a deal room. | [adaptiq.hatchup.capital](https://adaptiq.hatchup.capital) |
+| **Venture Studio Gateway** | Founder applications through multi-step dynamic forms, with internal evaluation and discovery sessions. | [venture.hatchup.capital](https://venture.hatchup.capital) |
+| **Katavex** | AI-assisted OKR and performance management that keeps organizational goals alive across teams instead of turning them into static documents. | [katavex.com](https://katavex.com) · [app](https://app.katavex.com) |
+| **Pathinnova** | AI immigration pathway recommender and a marketplace of vetted consultants and providers, offered white-label to immigration firms. | [pathinnova.com](https://pathinnova.com) · [app](https://app.pathinnova.com) |
+| **Phronexia** | Enterprise decision engine that pairs LLMs with Multi-Criteria Decision Making: it clarifies the problem in conversation, proposes weighted criteria and alternatives, and returns an explainable ranking. | [app.phronexiapoint.com](https://app.phronexiapoint.com) |
+| **Ordnix** | AI content generation — articles, blogs, news, and social posts written to a brief and scored before they ship. | [app.ordnix.com](https://app.ordnix.com) |
 
 ### Launchpad — infrastructure for international operations
 
@@ -64,14 +62,35 @@ Four business lines. Each is built to stand alone — and engineered to compound
 | :-- | :-- | :-- |
 | **Launchpad** | Company registration, free-zone setup, compliance, and the financial workflows of operating cross-border from the UAE. | [launchpad.hatchup.capital](https://launchpad.hatchup.capital) · [app](https://app.launchpad.hatchup.capital) |
 
-### Adapt Lab — platforms we build for others
+### Adapt Lab — platforms we build for clients
 
 | Product | What it is | Live |
 | :-- | :-- | :-- |
+| **Bayat Group** | Immigration and second-citizenship platform — AI-assisted assessment, consultant bookings, provider and partner portals, and a CMS for the landing site and its Insights. | [bayatgroup.com](https://bayatgroup.com) · [app](https://app.bayatgroup.com) |
+| **MatchPointIQ** | B2B matchmaking and deal management — finds suppliers through directory scraping and vector search, then carries the deal through contracts and compliance. | [matchpointiq.com](https://matchpointiq.com) · [app](https://app.matchpointiq.com) |
+| **Five & V** | Paid community sports events in Dubai — discover, book with Stripe, and rate; native iOS and Android plus the web, with a staff area for organizers. | [fiveandv.com](https://fiveandv.com) · [app](https://app.fiveandv.com) |
 | **yFace** | Face-proportion analysis and aesthetic-surgery recommendation powered by Face Mesh and LLMs, with dedicated patient and practitioner panels. | [app.yface.clinic](https://app.yface.clinic) |
-| **Bayat Group** | Immigration and second-citizenship counsel platform — case intake, eligibility, and client workflow. | [bayatgroup.com](https://bayatgroup.com) |
-| **MatchPointIQ** | B2B matchmaking and deal management — sources suppliers via directory scraping and vector search, then handles contracts and compliance end to end. | *private* |
-| **Adapt Lab Assistant** | Multi-tenant RAG platform that lets a business train an assistant on its own documents and embed it anywhere. | *private* |
+| **Client sites** | Marketing sites and content admin for [Colleagan](https://colleagan.com) and [Sam Bayat](https://sambayat.com). | |
+
+<br>
+
+## Hatchup Team — the workspace we run on
+
+**[Hatchup Team](https://team.hatchup.capital)** is our internal panel, on the web and iOS. Every client project lives there: its CRM, marketing campaigns and analytics, outbound messages, content calendar, recruitment, and **Campaign planning** — our seven-module campaign method, run as an AI interview with the sponsor, gated by their approvals, and delivered into Marketing and Content as drafts.
+
+Behind it sit standalone services, each with one job, its own database, and its own API. Hatchup Team is their only interface and the broker that owns tenancy, access, and the credentials vault.
+
+| Service | What it owns |
+| :-- | :-- |
+| **CRM** | Every person who meets a client's projects — lead to customer — and their consent to be contacted. |
+| **Performance** | Event ingestion, attribution, campaigns, UTM links, ad spend from Meta, LinkedIn, and Google, objectives, and CAC/ROAS analytics. |
+| **Communication** | The single door for outbound email and WhatsApp: send rules, block lists, throttled campaigns, spend caps, and one history. |
+| **CMS** | Content strategy, calendar, and briefs; every version of every piece. |
+| **Optimizer** | Scores content and audits whole sites for search and AI answer engines. It only proposes. |
+| **Media** | One place to upload, store, and serve images, video, and documents. |
+| **HRM** | Positions, requisitions and approvals, job-ad campaigns, candidates, and applications. |
+| **Payments** | A multi-tenant Stripe gateway — each product calls it with its own key and never holds a Stripe secret. |
+| **Google integration** | Calendar events and Meet links for every product, and whether the meeting was actually held. |
 
 <br>
 
@@ -87,7 +106,7 @@ The four of us who are actively building the ecosystem today, by where our commi
         <b>Nima Naghibi</b>
       </a><br>
       <sub>@NimaNaghibi143</sub><br><br>
-      <sub>Product engineering across<br>Pathinnova, Katavex, and<br>Adapt Lab platforms —<br>backend and frontend.</sub>
+      <sub>Product engineering on<br>Pathinnova, Bayat Group,<br>and Katavex —<br>backend and frontend.</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/alirezaqnti">
@@ -95,7 +114,7 @@ The four of us who are actively building the ecosystem today, by where our commi
         <b>Alireza</b>
       </a><br>
       <sub>@alirezaqnti</sub><br><br>
-      <sub>Launchpad and shared<br>services — onboarding,<br>payments, IAM, and<br>third-party integrations.</sub>
+      <sub>Product, and Hatchup Team<br>with its services —<br>Communication, Performance,<br>CRM — plus MatchPointIQ.</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Homanloo">
@@ -103,7 +122,7 @@ The four of us who are actively building the ecosystem today, by where our commi
         <b>Mohammad Homanloo</b>
       </a><br>
       <sub>@Homanloo</sub><br><br>
-      <sub>Venture Studio platform —<br>the HatchUp platform stack,<br>Katavex, and the MCDM<br>decision engine.</sub>
+      <sub>MatchPointIQ backend,<br>and the CRM and<br>Performance services.</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/1995parham">
@@ -111,7 +130,7 @@ The four of us who are actively building the ecosystem today, by where our commi
         <b>Parham Alvani</b>
       </a><br>
       <sub>@1995parham</sub><br><br>
-      <sub>Infrastructure and platform —<br>deployment, backend<br>architecture, and review<br>across the portfolio.</sub>
+      <sub>Infrastructure and platform —<br>deployment, backend<br>architecture, Phronexia,<br>and Five &amp; V.</sub>
     </td>
   </tr>
 </table>
@@ -120,23 +139,21 @@ The four of us who are actively building the ecosystem today, by where our commi
 
 ## How we build
 
-Every product in the ecosystem is bootstrapped from the same internal templates and deployed onto the same
-infrastructure, so a new venture starts with day-one compliance, auth, payments, and CI already solved.
+Every product shares one backend layout and one infrastructure, so a new venture starts with auth, payments, messaging, storage, and CI already solved.
 
 | Layer | Stack |
 | :-- | :-- |
-| **Backend** | Django REST Framework · FastAPI · Celery · PostgreSQL · MinIO |
-| **Frontend** | Next.js · React · TypeScript · Vite · Tailwind · shadcn/Radix |
-| **AI** | LLM orchestration · vector search & embeddings · RAG · MCDM scoring |
-| **Platform** | Docker Swarm · Ansible · GitHub Actions · GHCR |
-| **Shared services** | identity & access management · payments & billing · document workflows |
+| **Backend** | Django · Django REST Framework · FastAPI · Celery · PostgreSQL · Redis · S3-compatible object storage |
+| **Frontend** | Next.js · React · TypeScript · Vite · Tailwind · shadcn/Radix · Expo / React Native · Capacitor |
+| **AI** | LLM agents and interviews · vector search & embeddings · RAG · MCDM scoring (AHP) |
+| **Platform** | Hetzner · Docker Swarm · Traefik · Ansible · GitHub Actions on self-hosted runners · GHCR · Gantry |
+| **Shared services** | CRM · performance analytics · email & WhatsApp · media · payments · Google Calendar & Meet |
 
 <br>
 
 ## Work with us
 
-Whether you're building a new venture, scaling an existing business, expanding internationally, or modernizing a
-traditional operation — there's a pathway inside the ecosystem for it.
+Whether you're building a new venture, scaling an existing business, expanding internationally, or modernizing a traditional operation — there's a pathway inside the ecosystem for it.
 
 <div align="center">
 
