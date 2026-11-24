@@ -1,0 +1,23 @@
+name: Change request
+description: A new feature or a change to an existing one.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: The need
+      description: Who needs this, and what they cannot do today.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What done looks like
+      description: What will be true when this is finished.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Links to the request, designs, documents or related issues.
